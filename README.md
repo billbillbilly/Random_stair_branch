@@ -36,9 +36,9 @@ To make animations:
 1. Run the StartAtomEditorListener command from Rhino
 2. Set up a new folder to save output images
 3. In random_stairs_animation.py, modefy the path (the path of the new folder) for saving output images at line 427:
-
+```
     folder = '/your/folder/'
-    
+```  
 Then, run the script.
 4. Use other applications to generate gif or video.
 
