@@ -1,9 +1,7 @@
 # Random_stair_branch
 ### ARCH 703 Virtual Engagement
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | Second Header |
+| ------------- | ------------- | ------------- |
 ![gif1](poster/1_0-4_10.gif) | ![gif1](poster/1_0-8_25.gif) | ![gif1](poster/2_0-6_40.gif)
 
 ## Introduction
