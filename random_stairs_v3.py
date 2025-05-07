@@ -109,7 +109,7 @@ class stairSystem():
     def setPossibility(self, possibility):
         split_num = int(round(possibility * 10))
         index = random.sample(range(10), split_num)
-        self.if_list = range(10)
+        self.if_list = list(range(10))
         for i in range(10):
             if i in index:
                 # 1 is for branching out. 0 is for keeping one neighbor
